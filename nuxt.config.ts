@@ -6,5 +6,5 @@ console.warn('current dir', currentDir);
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["@nuxtjs/tailwindcss"]
+  modules: [join(currentDir, "node_modules", "@nuxtjs/tailwindcss")]
 })
