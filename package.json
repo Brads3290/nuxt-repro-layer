@@ -1,17 +1,7 @@
 {
-  "name": "nuxt-lego",
+  "name": "nuxt-layer",
+  "version": "1.0.0",
   "type": "module",
-  "version": "0.0.14",
-  "description": "Unstyled components for building your Nuxt content quick & beautiful.",
-  "license": "MIT",
-  "homepage": "https://nuxt-lego.vercel.app/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zernonia/nuxt-lego.git"
-  },
-  "bugs": {
-    "url": "https://github.com/zernonia/nuxt-lego/issues"
-  },
   "main": "./nuxt.config.ts",
   "files": [
     "components",
