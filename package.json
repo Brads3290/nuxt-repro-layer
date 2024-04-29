@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "main": "./nuxt.config.ts",
+  "devDependencies": {
+    "nuxt": "^3.6.2"
+  },
   "dependencies": {
     "@vueuse/core": "^10.1.0",
     "@vueuse/nuxt": "^10.1.0",
